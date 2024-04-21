@@ -24,10 +24,13 @@ yarn-error.log*
 
 ### IntelliJ IDEA ###
 .idea
-*.idea
 *.iws
 *.iml
 *.ipr
 
 ### VS Code ###
 .vscode/
+
+
+
+/task3/.idea
